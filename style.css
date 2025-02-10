@@ -1,0 +1,14 @@
+
+
+* {
+    background-color: pink;
+    color : hotpink;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+}
+
+img {
+    border-radius: 50%;
+    border: solid 5px;
+
+}
